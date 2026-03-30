@@ -1,0 +1,2 @@
+# Data-Structure-and-Algorithms-
+This program is a Python‑based contact management system that lets users add, update, delete, search, sort, and filter contacts. It provides a simple, centralised way to organise personal or professional contact information, helping individuals and organisations manage data efficiently and improve productivity.
